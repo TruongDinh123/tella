@@ -6,8 +6,8 @@ description = "Simple, Light, Responsive"
 homepage = "https://github.com/opera7133/tella"
 demosite = "https://tella.pages.dev"
 
-tags = ["light", "simple", "blog", "clean", "tailwindcss", "responsive", "company", "modern", "slide"]
-features = ["blog", "slides", "responsive"]
+tags = ["light", "simple", "blog", "clean", "tailwindcss", "responsive", "company", "modern", "slide", "arcticle"]
+features = ["blog", "slides", "responsive", "arcticle"]
 
 [author]
   name = "wamo"
